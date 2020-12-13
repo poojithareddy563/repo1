@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 125B-C0F9
+
+ Directory of C:\Users\Yaswanth k\Desktop\myproj
+
+13-12-2020  14:01    <DIR>          .
+13-12-2020  14:01    <DIR>          ..
+13-12-2020  14:01                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  891,846,672,384 bytes free
